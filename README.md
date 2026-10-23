@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm ASHWIN S 👋
 
-<!--
-**ASHWINS378/ASHWINS378** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 I'm learning Python,C,Java programming, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently exploring:
+- Python Programming
+- Java Programming
+- C Programming
+- Data Science & Analytics
+- Artificial Intelligence and Machine Learning
+- Open-Source Contributions
+
+🎯 My Goals:
+- Improve my coding skills
+- Build useful projects
+- Contribute to open-source communities
+
+🛠️ Languages and Tools:
+- Python
+- C
+- Java
+- Java fx
+- Git and GitHub
+- NumPy and Pandas *(learning)*
+
+📫 Thanks for visiting my profile!
+
+⭐ I'm learning something new every day.
